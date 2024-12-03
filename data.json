@@ -81,6 +81,20 @@
         "III Prokuratura Okręgowa Mafra/SC (2024 - obecnie) - Staż"
       ]
     }
-  ]
+  ],
+    "maintence": [
+      {
+        "head": "Site em manutenção",
+        "p": "Desculpe o transtorno, em breve a página estará disponível novamente."
+      },
+      {
+        "head": "Site under maintence",
+        "p": "Sorry for the inconvenience, the page will be avaliable again as soon as possible."
+      },
+      {
+        "head": "Strona w konserwacji",
+        "p": "Przepraszamy za niedogodności, strona wkrótce będzie ponownie dostępna."
+      }
+    ]
   }
 }
