@@ -124,5 +124,14 @@
         "https://raw.githubusercontent.com/carlos-jean-gawronski/portfolio-information/refs/heads/main/projetos/1/003.gif"
       ]
     }
+  ],
+  "law": [
+    {
+      "id": 1,
+      "title": "",
+      "avaliable": false,
+      "avaliableDate": "2024-12-31"
+      "paragraphs": []
+    }
   ]
 }
