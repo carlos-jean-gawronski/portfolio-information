@@ -128,10 +128,12 @@
   "law": [
     {
       "id": 1,
-      "title": "",
+      "title": "Aa aosijdaos asoijas jsia",
       "avaliable": false,
       "avaliableDate": "2024-12-31",
-      "paragraphs": []
+      "paragraphs": [
+        "Lorem ipsum dolor sit amet amsoa asoidjaojsaidj asikdnoansdois aiosaos ao mosmai osma sa osa o"
+      ]
     }
   ]
 }
